@@ -5,4 +5,5 @@ Day 1 - Space and Time Complexity<br>
 Day 2 - Recursion basics<br>
 Day 3 - Recursion Problems<br>
 Day 4 - Recursion Problems + Searching & Sorting Theory<br>
-Day 5 - Binary Search & Sorting Techniques
+Day 5 - Binary Search & Sorting Techniques<br>
+Day 6 - Sorting and Recursion on Leetcode, started December Long Challenge.
