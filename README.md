@@ -7,4 +7,5 @@ Day 3 - Recursion Problems<br>
 Day 4 - Recursion Problems + Searching & Sorting Theory<br>
 Day 5 - Binary Search & Sorting Techniques<br>
 Day 6 - Sorting and Recursion on Leetcode, started December Long Challenge.<br>
-Day 7 - Started with Backtracking(Theory and extreme basic), Linked List (Theory + Implementation).
+Day 7 - Started with Backtracking(Theory and extreme basic), Linked List (Theory + Implementation).<br>
+Day 8 - Participated in CodeChef SnackDown'21<br>
