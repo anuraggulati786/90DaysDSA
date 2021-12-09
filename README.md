@@ -12,3 +12,4 @@ Day 8 - Participated in CodeChef SnackDown'21<br>
 Day 9 - Solved classical backtracking questions on Leetcode.<br>
 Day 10 - Queue and Stack array implementation.<br>
 Day 11 - Leetcoding questions on Stacks<br>
+Day 12 - Studied about stack variations and famous stack problems.<br>
