@@ -13,3 +13,4 @@ Day 9 - Solved classical backtracking questions on Leetcode.<br>
 Day 10 - Queue and Stack array implementation.<br>
 Day 11 - Leetcoding questions on Stacks<br>
 Day 12 - Studied about stack variations and famous stack problems.<br>
+Day 13 - Sliding Window Technique<br>
