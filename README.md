@@ -17,3 +17,4 @@ Day 13 - Sliding Window Technique<br>
 Day 14 - Codechef Starters 19<br>
 Day 15 - Upsolved last contest.<br>
 Day 16 - Started Number Theory<br>
+Day 17 - Revisited and practiced Stack<br>
