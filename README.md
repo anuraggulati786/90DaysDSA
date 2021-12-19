@@ -20,4 +20,5 @@ Day 16 - Started Number Theory<br>
 Day 17 - Revisited and practiced Stack<br>
 Day 18 - Stacks<br>
 Day 19 - Stacks and started ITMO ACADEMY pilot course on Codeforces<br>
-Day 20 - Finished Stack and started BIT MANIPULATION<br>
+Day 20 - Finished Stack<br>
+Day 21 - Started Trees and participated in CodeChef December Cook-Off 2021.<br>
