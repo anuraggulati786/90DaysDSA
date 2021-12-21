@@ -22,3 +22,4 @@ Day 18 - Stacks<br>
 Day 19 - Stacks and started ITMO ACADEMY pilot course on Codeforces<br>
 Day 20 - Finished Stack<br>
 Day 21 - Started Trees and participated in CodeChef December Cook-Off 2021.<br>
+Day 22 = Participated in Codeforces #762<br>
