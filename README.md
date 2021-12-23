@@ -25,3 +25,4 @@ Day 21 - Started Trees and participated in CodeChef December Cook-Off 2021.<br>
 Day 22 - Participated in Codeforces #762<br>
 Day 23 - Trees<br>
 Day 24 - Trees<br>
+Day 25 - Participated in Codechef Infinity'21<br>
