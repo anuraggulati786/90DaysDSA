@@ -26,3 +26,5 @@ Day 22 - Participated in Codeforces #762<br>
 Day 23 - Trees<br>
 Day 24 - Trees<br>
 Day 25 - Participated in Codechef Infinity'21<br>
+Day 26 - Trees<br>
+Day 27 - Participated in Codeforces Global Round<br>
