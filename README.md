@@ -29,4 +29,5 @@ Day 25 - Participated in Codechef Infinity'21<br>
 Day 26 - Trees<br>
 Day 27 - Participated in Codeforces Global Round<br>
 Day 28 - Participated in Codechef December Lunchtime'21<br>
-Day 29 - Started Graph Theory
+Day 29 - Started Graph Theory<br>
+Day 30 - Graph Theory<br>
