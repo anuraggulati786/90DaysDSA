@@ -31,3 +31,6 @@ Day 27 - Participated in Codeforces Global Round<br>
 Day 28 - Participated in Codechef December Lunchtime'21<br>
 Day 29 - Started Graph Theory<br>
 Day 30 - Graph Theory<br>
+Day 31 - Graph Theory<br>
+Day 32 - Graph Theory<br>
+Day 33 - Graph Theory<br>
